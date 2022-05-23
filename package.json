@@ -1,0 +1,19 @@
+{
+  "name": "telegram-connector",
+  "version": "1.0.0",
+  "description": "Connects to telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marsnebulasoup/telegram-connector.git"
+  },
+  "author": "marsnebulasoup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marsnebulasoup/telegram-connector/issues"
+  },
+  "homepage": "https://github.com/marsnebulasoup/telegram-connector#readme"
+}
