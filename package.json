@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/marsnebulasoup/telegram-connector/issues"
   },
-  "homepage": "https://github.com/marsnebulasoup/telegram-connector#readme"
+  "homepage": "https://github.com/marsnebulasoup/telegram-connector#readme",
+  "dependencies": {
+    "telegram": "^2.8.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "input": "^1.0.1"
+  }
 }
