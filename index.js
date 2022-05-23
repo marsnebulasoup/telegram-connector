@@ -31,9 +31,6 @@ const saveCredentials = (apiId, apiHash, session) => {
     stringSession = new StringSession("");
   }
 
-  console.log(apiId, apiHash, stringSession);
-
-
   console.log("Loading interactive example...");
   const client = new TelegramClient(stringSession, apiId, apiHash, {
     connectionRetries: 5,
